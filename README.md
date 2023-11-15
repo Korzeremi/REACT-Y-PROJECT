@@ -10,4 +10,10 @@ Dans un premier temps, je vais commencer par réfléchir à la structure de ma b
 ### BACK
 #### Base de données  
 Avant toute chose, je vais réflechir à la structure de ma DB. Pour cela, j'utilise une feuille pour y mettre l'ensemble des tables et des données qui me seront nécessaires puis j'utilise le logiciel looping afin de pouvoir générer un script SQL à partir d'un modèle MCD. Voici la première version de la DB (vous pouvez retrouver le fichier **db_structure.loo** dans /back).
-![Looping](image.png)  
+![Looping](/MEDIA/image-6.png)
+Nous allons créer une première base de données locale que nous utiliserons pour le projet en local. Cette DB sera suceptible d'évoluer en fonction de l'avancé du projet. 
+Voici un premier script SQL pour concevoir notre DB. 
+![SQL](/MEDIA/image-7.png)
+![MDB](/MEDIA/image-8.png)
+Voici notre DB **ydb** sur DBeaver : 
+![DBEAVER](/MEDIA/image-9.png)
