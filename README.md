@@ -17,3 +17,8 @@ Voici un premier script SQL pour concevoir notre DB.
 ![MDB](/MEDIA/image-8.png)  
 Voici notre DB **ydb** sur DBeaver :  
 ![DBEAVER](/MEDIA/image-9.png)  
+Passons à l'API !  
+  
+#### API  
+Dans un premier temps, nous allons créer un fichier **server.js** où nous allons pouvoir créer l'ensemble de nos routes nécessaires au bon fonctionnement de notre API. J'ai commencé à créer un fichier **.env** et j'ai commencé à remplir le fichier **server.js** avec mes idées de routes.  
+![VSCODE](/MEDIA/image-10.png)  

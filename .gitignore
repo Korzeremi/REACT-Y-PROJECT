@@ -1,4 +1,6 @@
 .log
+.env
+/back/.env
 /back/node_modules
 /front/node_modules
 /node_modules
